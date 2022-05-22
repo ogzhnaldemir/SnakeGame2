@@ -35,7 +35,8 @@
         </ImageView>
         <TextView
             android:id="@+id/txt_score"
-            android:textColor="#ffffff"            android:textSize="30sp"
+            android:textColor="#ffffff"
+            android:textSize="30sp"
             android:text=" x 0 "
             android:layout_width="wrap_content"
             android:layout_height="wrap_content">
