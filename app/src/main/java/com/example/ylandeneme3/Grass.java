@@ -15,11 +15,13 @@ private  int x,y,width,height;
         this.height = height;
     }
 
-    public Bitmap getBm() {
+    public Bitmap getBm()
+    {
         return bm;
     }
 
-    public void setBm(Bitmap bm) {
+    public void setBm(Bitmap bm)
+    {
         this.bm = bm;
     }
 
